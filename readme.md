@@ -8,6 +8,11 @@ Package downloads one of your chosen themes into your `resources/views` folders,
 2. That's it: run command `php artisan theme:download --theme=[YOUR_THEME_NAME]`
 3. You will see new files appear in `resources/views` and `routes` folder
 
+More in-depth article: [ThemeDownloader v0.1: apply Bootstrap theme with Artisan command](https://laraveldaily.com/themedownloader-v0-1-apply-bootstrap-theme-artisan-command/)
+Demo-video: [Need Opinion: Laravel Bootstrap Theme Downloader](https://www.youtube.com/watch?v=GxO9UlieDDg)
+
+- - - - -
+
 ## Currently supported themes
 
 1. [Landing Page](https://startbootstrap.com/themes/landing-page/) (`--theme=landing-page`)
