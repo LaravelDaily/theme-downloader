@@ -10,9 +10,9 @@ Package downloads one of your chosen themes into your `resources/views` folders,
 
 ## Currently supported themes
 
-1. [Landing Page](https://startbootstrap.com/template-overviews/landing-page/) (`--theme=landing-page`)
+1. [Landing Page](https://startbootstrap.com/themes/landing-page/) (`--theme=landing-page`)
 
-![Landing Page](https://startbootstrap.com/assets/img/templates/landing-page.jpg)
+![Landing Page](https://laraveldaily.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-03-at-8.02.05-AM.png)
 
 2. [Classimax](https://themefisher.com/products/classimax-bootstrap-classified-responsive-theme/) (`--theme=classimax`)
 
